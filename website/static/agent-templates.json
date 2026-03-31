@@ -35,7 +35,7 @@
     "title": "Copilot Skills Agent",
     "description": "A code-based hosted agent using FoundryCBAgent from the Azure AI AgentServer Core SDK. Demonstrates direct control over streaming and non-streaming responses with the OpenAI Responses API.",
     "language": "python",
-    "framework": "Custom",
+    "framework": "Copilot SDK",
     "source": "https://github.com/therealjohn/microsoft-foundry-for-vscode/blob/add-copilot-sdk-template/samples/hosted-agent/python/copilot-skills/agent.yaml",
     "tags": ["Copilot Skills", "FoundryCBAgent", "streaming"]
   },
