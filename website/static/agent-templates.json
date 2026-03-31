@@ -4,7 +4,7 @@
     "description": "A travel assistant agent that helps users find hotels in Seattle. Demonstrates local C# tool execution - a key advantage of code-based hosted agents over prompt agents.",
     "language": "csharp",
     "framework": "Agent Framework",
-    "source": "https://github.com/therealjohn/microsoft-foundry-for-vscode/blob/add-copilot-sdk-template/samples/hosted-agent/dotnet/agent/agent.yaml",
+    "source": "https://github.com/therealjohn/microsoft-foundry-for-vscode/blob/add-copilot-sdk-template/samples/hosted-agent/dotnet/agent/agent.manifest.yaml",
     "tags": ["local tools", "travel assistant"]
   },
   {
@@ -20,7 +20,7 @@
     "description": "A multi-agent workflow featuring a Writer and Reviewer that collaborate to create and refine content.",
     "language": "csharp",
     "framework": "Agent Framework",
-    "source": "https://github.com/therealjohn/microsoft-foundry-for-vscode/blob/add-copilot-sdk-template/samples/hosted-agent/dotnet/workflow/agent.yaml",
+    "source": "https://github.com/therealjohn/microsoft-foundry-for-vscode/blob/add-copilot-sdk-template/samples/hosted-agent/dotnet/workflow/agent.manifest.yaml",
     "tags": ["workflows", "multi-agent", "content creation"]
   },
   {
@@ -28,7 +28,7 @@
     "description": "A travel assistant agent that helps users find hotels in Seattle. Demonstrates local Python tool execution - a key advantage of code-based hosted agents over prompt agents.",
     "language": "python",
     "framework": "Agent Framework",
-    "source": "https://github.com/therealjohn/microsoft-foundry-for-vscode/blob/add-copilot-sdk-template/samples/hosted-agent/python/agent/agent.yaml",
+    "source": "https://github.com/therealjohn/microsoft-foundry-for-vscode/blob/add-copilot-sdk-template/samples/hosted-agent/python/agent/agent.manifest.yaml",
     "tags": ["local tools", "travel assistant"]
   },
   {
@@ -36,7 +36,7 @@
     "description": "A code-based hosted agent using FoundryCBAgent from the Azure AI AgentServer Core SDK. Demonstrates direct control over streaming and non-streaming responses with the OpenAI Responses API.",
     "language": "python",
     "framework": "Copilot SDK",
-    "source": "https://github.com/therealjohn/microsoft-foundry-for-vscode/blob/add-copilot-sdk-template/samples/hosted-agent/python/copilot-skills/agent.yaml",
+    "source": "https://github.com/therealjohn/microsoft-foundry-for-vscode/blob/add-copilot-sdk-template/samples/hosted-agent/python/copilot-skills/agent.manifest.yaml",
     "tags": ["Copilot Skills", "FoundryCBAgent", "streaming"]
   },
   {
@@ -44,7 +44,7 @@
     "description": "A travel assistant agent that helps users find hotels in Seattle. Demonstrates LangGraph ReAct agent with local Python tool execution.",
     "language": "python",
     "framework": "LangGraph",
-    "source": "https://github.com/therealjohn/microsoft-foundry-for-vscode/blob/add-copilot-sdk-template/samples/hosted-agent/python/langgraph-agent/agent.yaml",
+    "source": "https://github.com/therealjohn/microsoft-foundry-for-vscode/blob/add-copilot-sdk-template/samples/hosted-agent/python/langgraph-agent/agent.manifest.yaml",
     "tags": ["LangGraph", "local tools", "travel assistant"]
   },
   {
@@ -60,7 +60,7 @@
     "description": "A multi-agent workflow featuring a Writer and Reviewer that collaborate to create and refine content.",
     "language": "python",
     "framework": "Agent Framework",
-    "source": "https://github.com/therealjohn/microsoft-foundry-for-vscode/blob/add-copilot-sdk-template/samples/hosted-agent/python/workflow/agent.yaml",
+    "source": "https://github.com/therealjohn/microsoft-foundry-for-vscode/blob/add-copilot-sdk-template/samples/hosted-agent/python/workflow/agent.manifest.yaml",
     "tags": ["workflows", "multi-agent", "content creation"]
   }
 ]
