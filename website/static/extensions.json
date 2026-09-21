@@ -57,7 +57,7 @@
   {
     "id": "azure.ai.agents",
     "displayName": "Foundry agents (Beta)",
-    "description": "Ship agents with Microsoft Foundry from your terminal. (Beta)",
+    "description": "Ship prompt, hosted, and voice agents with Microsoft Foundry from your terminal. (Beta)",
     "author": "Foundry Team",
     "authorUrl": "https://github.com/Azure",
     "source": "https://github.com/Azure/azure-dev/tree/main/cli/azd/extensions/azure.ai.agents",
